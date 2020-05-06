@@ -1,9 +1,17 @@
-<svg width="1543" height="320" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="322" width="1545" y="-1" x="-1"/>
- </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="320" width="1543.4" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1543.4268 320.00026">
+ <g id="layer1" transform="translate(0 -732.36)">
+  <g stroke-width="28">
+   <g id="g5204-0" transform="matrix(-.66287 .69913 -.66371 -.70001 863.46 1410.6)">
+    <g id="g5175-6" transform="translate(2.5254 3.0305)"></g>
+    <g id="g5175-9-8" transform="translate(41.25 -30.543)" stroke-width="28"></g>
+   </g>
+   <g id="g5175-6-35" transform="matrix(.57657 .52719 -.57729 .52786 584.63 346.6)"></g>
+   <g id="g5204-0-5-0" transform="matrix(.66287 -.69913 .66371 .70001 -543.46 380.47)">
+    <g id="g5175-6-35-9" transform="translate(2.5254 3.0305)"></g>
+    <g id="g5175-9-8-2-6" transform="translate(41.25 -30.543)" stroke-width="28"></g>
+   </g>
+  </g>
+  <g id="text4279" transform="translate(0 732.36)" fill="#305680">
  <g>
   <title>Layer 1</title>
   <g stroke="null" transform="matrix(1.1450567312623632,0,0,1.1447856405386507,7.216189444578888,7.216690915813759) " id="SvgjsG1072">
@@ -17,5 +25,7 @@
    </svg>
   </g>
   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="190" id="svg_8" y="223.453125" x="343" stroke-width="0" stroke="#000" fill="#ffffff">BUSSEboard</text>
+ </g>
+  </g>
  </g>
 </svg>
